@@ -48,4 +48,3 @@ The next steps are a brief description about how the shell works:
 
 - *Esau Obuong* - [@obuong](https://github.com/obuong) 
 - *Velma Oketch*  - [@oketch1995](https://github.com/Oketch1995)
-
